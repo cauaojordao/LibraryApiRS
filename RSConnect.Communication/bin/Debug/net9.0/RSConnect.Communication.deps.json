@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RSConnect.Communication/1.0.0": {
+        "runtime": {
+          "RSConnect.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSConnect.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

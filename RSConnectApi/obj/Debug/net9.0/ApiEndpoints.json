@@ -1,0 +1,72 @@
+[
+  {
+    "ContainingType": "RSConnect.Api.Controllers.LoginController",
+    "Method": "DoLogin",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RSConnect.Communication.Requests.RequestLoginJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RSConnect.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "RSConnect.Communication.Responses.ResponseErrorMessagesJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "RSConnect.Api.Controllers.UsersController",
+    "Method": "Create",
+    "RelativePath": "Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RSConnect.Communication.Requests.RequestUserJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RSConnect.Communication.Responses.ResponseRegisteredUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "RSConnect.Communication.Responses.ResponseErrorMessagesJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IIGuY9mYN7Y32Ak4TXjcXU9/Ih8756SKPspIwfnkc5c=",
+  "Source": "RSConnect.Api",
+  "BasePath": "_content/RSConnect.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

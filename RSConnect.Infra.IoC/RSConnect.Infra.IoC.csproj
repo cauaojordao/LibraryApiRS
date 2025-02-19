@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RSConnect.Application\RSConnect.Application.csproj" />
+    <ProjectReference Include="..\RSConnect.Infra.Data\RSConnect.Infra.Data.csproj" />
+    <ProjectReference Include="..\RSConnectApi.Domain\RSConnect.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

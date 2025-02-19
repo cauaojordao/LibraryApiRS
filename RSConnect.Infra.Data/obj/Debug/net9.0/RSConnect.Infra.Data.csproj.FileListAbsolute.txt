@@ -1,0 +1,15 @@
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\bin\Debug\net9.0\RSConnect.Infra.Data.deps.json
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\bin\Debug\net9.0\RSConnect.Infra.Data.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\bin\Debug\net9.0\RSConnect.Infra.Data.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\bin\Debug\net9.0\RSConnect.Domain.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\bin\Debug\net9.0\RSConnect.Domain.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.AssemblyInfo.cs
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnec.4B4758CA.Up2Date
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\refint\RSConnect.Infra.Data.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\RSConnect.Infra.Data.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Infra.Data\obj\Debug\net9.0\ref\RSConnect.Infra.Data.dll

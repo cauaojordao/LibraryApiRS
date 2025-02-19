@@ -1,0 +1,11 @@
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\bin\Debug\net9.0\RSConnect.Exception.deps.json
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\bin\Debug\net9.0\RSConnect.Exception.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\bin\Debug\net9.0\RSConnect.Exception.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.AssemblyInfoInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.AssemblyInfo.cs
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.csproj.CoreCompileInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\refint\RSConnect.Exception.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\RSConnect.Exception.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Exception\obj\Debug\net9.0\ref\RSConnect.Exception.dll

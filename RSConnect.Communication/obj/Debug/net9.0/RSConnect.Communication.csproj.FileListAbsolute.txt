@@ -1,0 +1,11 @@
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\bin\Debug\net9.0\RSConnect.Communication.deps.json
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\bin\Debug\net9.0\RSConnect.Communication.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\bin\Debug\net9.0\RSConnect.Communication.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.AssemblyInfoInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.AssemblyInfo.cs
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\refint\RSConnect.Communication.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.pdb
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\ref\RSConnect.Communication.dll
