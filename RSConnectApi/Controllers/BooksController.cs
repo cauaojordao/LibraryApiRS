@@ -16,6 +16,7 @@ namespace RSConnect.Api.Controllers
         {
             var useCase = new FilterBookUseCase();
 
+
             var result = useCase.Execute(new RequestFilterBooksJson
             {
                 PageNumber = pageNumber,

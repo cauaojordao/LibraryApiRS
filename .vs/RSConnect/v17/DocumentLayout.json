@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A21407B-3C6D-4BC1-B2F9-51917596FFBA}|RSConnectApi\\RSConnect.Api.csproj|c:\\users\\dinoe\\source\\repos\\rsconnectapi\\rsconnectapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A21407B-3C6D-4BC1-B2F9-51917596FFBA}|RSConnectApi\\RSConnect.Api.csproj|solutionrelative:rsconnectapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A8328E-E145-46FF-9D88-ED13F5A1CA30}|RSConnect.Communication\\RSConnect.Communication.csproj|c:\\users\\dinoe\\source\\repos\\rsconnectapi\\rsconnect.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A8328E-E145-46FF-9D88-ED13F5A1CA30}|RSConnect.Communication\\RSConnect.Communication.csproj|solutionrelative:rsconnect.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A21407B-3C6D-4BC1-B2F9-51917596FFBA}|RSConnectApi\\RSConnect.Api.csproj|c:\\users\\dinoe\\source\\repos\\rsconnectapi\\rsconnectapi\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A21407B-3C6D-4BC1-B2F9-51917596FFBA}|RSConnectApi\\RSConnect.Api.csproj|solutionrelative:rsconnectapi\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnectApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RSConnectApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnectApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "RSConnectApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:01:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestFilterBooksJson.cs",
+              "DocumentMoniker": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnect.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "RelativeDocumentMoniker": "RSConnect.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "ToolTip": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnect.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "RelativeToolTip": "RSConnect.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:58:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterBookUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnectApi\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "RelativeDocumentMoniker": "RSConnectApi\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "ToolTip": "C:\\Users\\dinoe\\source\\repos\\RSConnectApi\\RSConnectApi\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "RelativeToolTip": "RSConnectApi\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:03:01.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
