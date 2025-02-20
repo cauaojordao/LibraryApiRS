@@ -1,5 +1,41 @@
 [
   {
+    "ContainingType": "RSConnect.Api.Controllers.BooksController",
+    "Method": "Filter",
+    "RelativePath": "api/Books/Filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RSConnect.Communication.Responses.ResponseBooksJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
     "ContainingType": "RSConnect.Api.Controllers.LoginController",
     "Method": "DoLogin",
     "RelativePath": "api/Login",

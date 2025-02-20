@@ -86,3 +86,4 @@ C:\Users\dinoe\source\repos\RSConnectApi\RSConnectApi\bin\Debug\net9.0\Microsoft
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnectApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnectApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnectApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnectApi\obj\Debug\net9.0\RSConnect.Api.sourcelink.json

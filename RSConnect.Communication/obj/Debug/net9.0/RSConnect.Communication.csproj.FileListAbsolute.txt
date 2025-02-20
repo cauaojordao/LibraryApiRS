@@ -9,3 +9,4 @@ C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\refint\RSConnect.Communication.dll
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.pdb
 C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\ref\RSConnect.Communication.dll
+C:\Users\dinoe\source\repos\RSConnectApi\RSConnect.Communication\obj\Debug\net9.0\RSConnect.Communication.sourcelink.json

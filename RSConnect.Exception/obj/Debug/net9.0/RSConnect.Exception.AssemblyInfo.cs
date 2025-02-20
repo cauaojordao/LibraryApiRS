@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSConnect.Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e49f9db23d540441b32e0a6aca0e36b919081f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSConnect.Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSConnect.Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
